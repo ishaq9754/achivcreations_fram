@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://achivcreations.framer.website/sitemap.xml
